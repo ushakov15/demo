@@ -1,1 +1,3 @@
-#some license
+# LICENSE
+
+## Apache 3.0
